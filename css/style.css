@@ -1,0 +1,39 @@
+.layout-parent {
+   position: relative;
+}            
+   
+.layout-center {
+   margin: 0;
+   position: absolute;         
+   top: 5%;
+   left:5%;   
+} 
+
+#hintRed{
+	width:25px;
+	height:25px;
+	background:#d21111;
+	float:left;
+	margin:5px;
+}
+
+#hintGreen{
+	width:25px;
+	height:25px;
+	background:	#74d216;
+	float:left;
+	margin:5px;
+}
+
+
+table {
+	margin:10px;
+	
+	border:1px solid black;
+	text-align:center;
+}
+
+td {
+    width: 50px;
+    height: 50px;	
+}
